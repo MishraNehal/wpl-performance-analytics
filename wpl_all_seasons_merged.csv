@@ -1,0 +1,80 @@
+Season,Team1,Team2,Winning Team,Won by,first_innings_score,second_innings_score,Player_of_Match
+2023,Gujarat Giants,Mumbai Indians ,Mumbai Indians,143 runs,207/5,64/10,Harmanpreet Kaur
+2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,60 runs,223/2,163/8,Tara Norris
+2023,Gujarat Giants,UP Warriorz,UP Warriorz,3 wickets,169/6,175/7,Grace Harris
+2023,Royal Challengers Bangalore ,Mumbai Indians ,Mumbai Indians,9 wickets,155/10,159/1,Hayley Matthews
+2023,Delhi Capitals,UP Warriorz,Delhi Capitals,42 runs,211/4,169/5,Jess Jonassen
+2023,Gujarat Giants,Royal Challengers Bangalore,Gujarat Giants,11 runs,201/7,190/7,Sophia Dunkley
+2023,Delhi Capitals,Mumbai Indians ,Mumbai Indians,8 wickets,105/10,109/2,Saika Ishaque
+2023,Royal Challengers Bangalore ,UP Warriorz,UP Warriorz,10 wickets,138/10,139/0,Alyssa Healy
+2023,Gujarat Giants,Delhi Capitals,Delhi Capitals,10 wickets,105/9,107/0,Marizanne Kapp
+2023,Mumbai Indians,UP Warriorz,Mumbai Indians,8 wickets,159/6,164/2,Harmanpreet Kaur
+2023,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,6 wickets,150/4,154/4,Jess Jonassen
+2023,Mumbai Indians,Gujarat Giants,Mumbai Indians,55 runs,162/8,107/9,Harmanpreet Kaur
+2023,UP Warriorz,Royal Challengers Bangalore,Royal Challengers Bangalore,5 wickets,135/10,136/5,Kanika Ahuja
+2023,Gujarat Giants,Delhi Capitals,Gujarat Giants,11 runs,147/4,136/10,Ashleigh Gardner
+2023,Mumbai Indians,UP Warriorz,UP Warriorz,5 wickets,127/10,129/5,Deepti Sharma
+2023,Gujarat Giants,Royal Challengers Bangalore,Royal Challengers Bangalore,8 wickets,188/4,189/2,Sophie Devine
+2023,Gujarat Giants,UP Warriorz,UP Warriorz,3 wickets,178/6,181/7,Grace Harris
+2023,Mumbai Indians,Delhi Capitals,Delhi Capitals,9 wickets,109/8,110/1,Marizanne Kapp
+2023,Royal Challengers Bangalore ,Mumbai Indians ,Mumbai Indians,4 wickets,125/9,129/6,Amelia Kerr
+2023,UP Warriorz,Delhi Capitals,Delhi Capitals,5 wickets,138/6,142/5,Alice Capsey
+2023,Mumbai Indians,UP Warriorz,Mumbai Indians,72 runs,182/4,110/10,Nat Sciver-Brunt
+2023,Delhi Capitals,Mumbai Indians ,,,,,
+2024,Delhi Capitals Women,Mumbai Indians Women,Mumbai Indians Women,4 wkts,N/A,N/A,N/A
+2024,Royal Challengers Bangalore Women,UP Warriorz,Royal Challengers Bangalore Women,2 runs,N/A,N/A,N/A
+2024,Gujarat Giants,Mumbai Indians Women,Mumbai Indians Women,5 wkts,N/A,N/A,N/A
+2024,UP Warriorz,Delhi Capitals Women,Delhi Capitals Women,9 wkts,N/A,N/A,N/A
+2024,Gujarat Giants,Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,8 wkts,N/A,N/A,N/A
+2024,Mumbai Indians Women,UP Warriorz,UP Warriorz,7 wkts,N/A,N/A,N/A
+2024,Delhi Capitals Women,Royal Challengers Bangalore Women,Delhi Capitals Women,25 runs,N/A,N/A,N/A
+2024,Gujarat Giants,UP Warriorz,UP Warriorz,6 wkts,N/A,N/A,N/A
+2024,Royal Challengers Bangalore Women,Mumbai Indians Women,Mumbai Indians Women,7 wkts,N/A,N/A,N/A
+2024,Delhi Capitals Women,Gujarat Giants,Delhi Capitals Women,25 runs,N/A,N/A,N/A
+2024,Royal Challengers Bangalore Women,UP Warriorz,Royal Challengers Bangalore Women,23 runs,N/A,N/A,N/A
+2024,Delhi Capitals Women,Mumbai Indians Women,Delhi Capitals Women,29 runs,N/A,N/A,N/A
+2024,Gujarat Giants,Royal Challengers Bangalore Women,Gujarat Giants,19 runs,N/A,N/A,N/A
+2024,Mumbai Indians Women,UP Warriorz,Mumbai Indians Women,42 runs,N/A,N/A,N/A
+2024,UP Warriorz,Delhi Capitals Women,UP Warriorz,1 run,N/A,N/A,N/A
+2024,Gujarat Giants,Mumbai Indians Women,Mumbai Indians Women,7 wkts,N/A,N/A,N/A
+2024,Delhi Capitals Women,Royal Challengers Bangalore Women,Delhi Capitals Women,1 run,N/A,N/A,N/A
+2024,Gujarat Giants,UP Warriorz,Gujarat Giants,8 runs,N/A,N/A,N/A
+2024,Mumbai Indians Women,Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,7 wkts,N/A,N/A,N/A
+2024,Gujarat Giants,Delhi Capitals Women,Delhi Capitals Women,7 wkts,N/A,N/A,N/A
+2024,Royal Challengers Bangalore Women,Mumbai Indians Women,Royal Challengers Bangalore Women,5 runs,N/A,N/A,N/A
+2024,Delhi Capitals Women,Royal Challengers Bangalore Women,Royal Challengers Bangalore Women,8 wkts,N/A,N/A,N/A
+2025,Gujarat Giants Women,Royal Challengers Bengaluru Women,Royal Challengers Bengaluru Women,6 wkts,201/5,202/4,N/A
+2025,Mumbai Indians Women,Delhi Capitals Women,Delhi Capitals Women,2 wkts,164,"(20 ov, T:165) 165/8",N/A
+2025,UP Warriorz Women,Gujarat Giants Women,Gujarat Giants Women,6 wkts,143/9,"(18/20 ov, T:144) 144/4",N/A
+2025,Delhi Capitals Women,Royal Challengers Bengaluru Women,Royal Challengers Bengaluru Women,8 wkts,141,"(16.2/20 ov, T:142) 146/2",N/A
+2025,Gujarat Giants Women,Mumbai Indians Women,Mumbai Indians Women,5 wkts,120,"(16.1/20 ov, T:121) 122/5",N/A
+2025,UP Warriorz Women,Delhi Capitals Women,Delhi Capitals Women,7 wkts,166/7,"(19.5/20 ov, T:167) 167/3",N/A
+2025,Royal Challengers Bengaluru Women,Mumbai Indians Women,Mumbai Indians Women,4 wkts,167/7,"(19.5/20 ov, T:168) 170/6",N/A
+2025,UP Warriorz Women,Delhi Capitals Women,UP Warriorz Women,33 runs,177/9,"(19.3/20 ov, T:178) 144",N/A
+2025,Royal Challengers Bengaluru Women,UP Warriorz Women,Match tied (UP Warriorz Women won in Super Over),Match tied (UP Warriorz Women won in Super Over),180/6,"(20 ov, T:181) 180",N/A
+2025,Gujarat Giants Women,Delhi Capitals Women,Delhi Capitals Women,6 wkts,127/9,"(15.1/20 ov, T:128) 131/4",N/A
+2025,UP Warriorz Women,Mumbai Indians Women,Mumbai Indians Women,8 wkts,142/9,"(17/20 ov, T:143) 143/2",N/A
+2025,Royal Challengers Bengaluru Women,Gujarat Giants Women,Gujarat Giants Women,6 wkts,125/7,"(16.3/20 ov, T:126) 126/4",N/A
+2025,Mumbai Indians Women,Delhi Capitals Women,Delhi Capitals Women,9 wkts,123/9,"(14.3/20 ov, T:124) 124/1",N/A
+2025,Royal Challengers Bengaluru Women,Delhi Capitals Women,Delhi Capitals Women,9 wkts,147/5,"(15.3/20 ov, T:148) 151/1",N/A
+2025,Gujarat Giants Women,UP Warriorz Women,Gujarat Giants Women,81 runs,186/5,"(17.1/20 ov, T:187) 105",N/A
+2025,UP Warriorz Women,Mumbai Indians Women,Mumbai Indians Women,6 wkts,150/9,"(18.3/20 ov, T:151) 153/4",N/A
+2025,Delhi Capitals Women,Gujarat Giants Women,Gujarat Giants Women,5 wkts,177/5,"(19.3/20 ov, T:178) 178/5",N/A
+2025,UP Warriorz Women,Royal Challengers Bengaluru Women,UP Warriorz Women,12 runs,225/5,"(19.3/20 ov, T:226) 213",N/A
+2025,Mumbai Indians Women,Gujarat Giants Women,Mumbai Indians Women,9 runs,179/6,"(20 ov, T:180) 170",N/A
+2025,Royal Challengers Bengaluru Women,Mumbai Indians Women,Royal Challengers Bengaluru Women,11 runs,199/3,"(20 ov, T:200) 188/9",N/A
+2025,Mumbai Indians Women,Gujarat Giants Women,Mumbai Indians Women,47 runs,213/4,"(19.2/20 ov, T:214) 166",N/A
+2026,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,RCB Women won by 3 wickets,165/8,168/7,N/A
+2026,UP Warriorz,Gujarat Giants,Gujarat Giants,GG Women won by 10 runs,142/9,153/7,N/A
+2026,Mumbai Indians,Delhi Capitals,Mumbai Indians,MI Women won by 50 runs,182/5,132/9,N/A
+2026,Delhi Capitals,Gujarat Giants,Gujarat Giants,GG Women won by 4 runs,149/8,153/6,N/A
+2026,Royal Challengers Bangalore,UP Warriorz,Royal Challengers Bangalore,RCB Women won by 9 wickets,156/4,147/9,N/A
+2026,Mumbai Indians,Gujarat Giants,Mumbai Indians,MI Women won by 7 wickets,170/6,165/9,N/A
+2026,UP Warriorz,Delhi Capitals,Delhi Capitals,DC Women won by 7 wickets,148/8,149/3,N/A
+2026,Mumbai Indians,UP Warriorz,UP Warriorz,UP Warriorz Women won by 7 wickets,158/7,159/3,N/A
+2026,Royal Challengers Bangalore,Gujarat Giants,Royal Challengers Bangalore,RCB Women won by 32 runs,176/4,144/9,N/A
+2026,UP Warriorz,Mumbai Indians,UP Warriorz,UP Warriorz Women won by 22 runs,171/6,149/8,N/A
+2026,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,RCB Women won by 8 wickets,151/7,152/2,N/A
+2026,Delhi Capitals,UP Warriorz,Delhi Capitals,DC Women won by 5 wickets,156/6,157/5,N/A
+2026,Delhi Capitals,Gujarat Giants,Delhi Capitals,Delhi Capitals Women won,162/4,148/8,N/A
+2026,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,RCB Women won by 6 wickets,204/4,203/4,N/A
