@@ -55,6 +55,3 @@ End-to-end data analysis and machine learning project on the **Women's Premier L
 3. Upload the CSV files
 4. Run all cells top to bottom
 
-## 👤 Author
-**[Your Name]**
-[LinkedIn](https://linkedin.com) | [Kaggle](https://kaggle.com)
